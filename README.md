@@ -1,10 +1,6 @@
 # Tao
 
----
-
 # What is Tao?
-
----
 
 The tao of computer science contains the following contents as far as I can see.
 
@@ -13,7 +9,5 @@ The tao of computer science contains the following contents as far as I can see.
 3. The Tao of Hacker
 
 # What can I do?
-
----
 
 ...
