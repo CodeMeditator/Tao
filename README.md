@@ -11,3 +11,7 @@ The tao of computer science contains the following contents as far as I can see.
 # What can I do?
 
 ...
+
+# Contact
+
+You can reach me by [E-mail](mailto:richardchen97@hotmail.com) if you need.
